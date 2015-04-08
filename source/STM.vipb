@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2015-03-26 16:08:31" Modified_Date="2015-04-07 20:00:21" Creator="David Staab" Comments="" ID="b1bc66623b80370f05349a117430e69e">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2015-03-26 16:08:31" Modified_Date="2015-04-08 15:25:15" Creator="David Staab" Comments="" ID="76a418d78ea248687d53567f7e50add8">
   <Library_General_Settings>
     <Package_File_Name>selib_stm</Package_File_Name>
-    <Library_Version>3.0.0.10</Library_Version>
+    <Library_Version>3.0.1.11</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..\export\package</Library_Output_Folder>
@@ -34,15 +34,7 @@
       <Copyright>Multiple copyright holders</Copyright>
       <Packager>Staab Engineering and NI Systems Engineering</Packager>
       <URL/>
-      <Release_Notes>This version is not code compatible with the previous 2.x releases of STM.  You will need to manually update any existing code built using the STM library.
-
-Fixed Issue #2, "The "timeout" parameter is implemented incorrectly on "Read Message (TCP).vi" and "Read Meta Data (TCP Clst).vi".
-
-Updated VIP build spec to v2013.
-
-Created unit test for bug fix using VI Tester. Added VI Tester to repo as a project dependency. Added a small library of test tools. (See licenses on each VI; they're all BSD2.)
-
-Added pre-build step for VIP that executes tests in the "Prebuild Test Suite".</Release_Notes>
+      <Release_Notes>Fixed a couple more TCP Read calls set to STANDARD mode instead of BUFFERED.</Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>
