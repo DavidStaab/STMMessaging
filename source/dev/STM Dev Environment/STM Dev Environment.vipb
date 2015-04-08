@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2015-03-26 16:29:25" Modified_Date="2015-03-26 16:43:41" Creator="David Staab" Comments="" ID="077d0dfc6714647fa402a3b2cda8edd0">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2015-03-26 16:29:25" Modified_Date="2015-04-07 20:03:48" Creator="David Staab" Comments="" ID="3b3cb6fdba293a16143565682a664cf2">
   <Library_General_Settings>
     <Package_File_Name>selib_STM_Dev_Environment</Package_File_Name>
-    <Library_Version>0.1.0.3</Library_Version>
+    <Library_Version>0.1.0.4</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..\..\..\dependencies</Library_Output_Folder>
@@ -19,6 +19,7 @@
     <Package_Dependencies>
       <Additional_External_Dependencies>jki_labs_tool_vi_tester &gt;=1.1.2.274</Additional_External_Dependencies>
       <Package_Conflicts>ni_lib_stm &gt;=2.1.0.2</Package_Conflicts>
+      <Package_Conflicts>selib_stm &gt;=3.0.0.9</Package_Conflicts>
     </Package_Dependencies>
     <Custom_Action_VIs>
       <Pre-Build_VI/>
@@ -35,7 +36,8 @@
       <Copyright/>
       <Packager/>
       <URL/>
-      <Release_Notes>Added STM package to "Incompatible Packages" list.
+      <Release_Notes>Added NI STM package to "Incompatible Packages" list.
+Added SE STM package to "Incompatible Packages" list.
 Added VI Tester package to the "Package Dependencies" list.</Release_Notes>
     </Description>
     <Destinations>
