@@ -101,7 +101,6 @@
 				<Item Name="9CEF3E9323BA63F30F1230F065DB1BBD" Type="VI" URL="/&lt;vilib&gt;/addons/_JKI Toolkits/VI Tester/_support/Support.llb/9CEF3E9323BA63F30F1230F065DB1BBD"/>
 				<Item Name="9D85CDE4968C8CF36F5417767435745E" Type="VI" URL="/&lt;vilib&gt;/addons/_JKI Toolkits/VI Tester/_support/Support.llb/9D85CDE4968C8CF36F5417767435745E"/>
 				<Item Name="9E40CA54C68A24D9A09C914ED80D6221" Type="VI" URL="/&lt;vilib&gt;/addons/_JKI Toolkits/VI Tester/_support/Support.llb/9E40CA54C68A24D9A09C914ED80D6221"/>
-				<Item Name="9ED9F1C8AA806218C2FFB3C21F18A1D9" Type="VI" URL="/&lt;vilib&gt;/addons/_JKI Toolkits/VI Tester/_support/Support.llb/9ED9F1C8AA806218C2FFB3C21F18A1D9"/>
 				<Item Name="16EECC8F9F28C81E75F251C77B486376" Type="VI" URL="/&lt;vilib&gt;/addons/_JKI Toolkits/VI Tester/_support/Support.llb/16EECC8F9F28C81E75F251C77B486376"/>
 				<Item Name="19C482F3AC6AD49AB10306015D89FC69" Type="VI" URL="/&lt;vilib&gt;/addons/_JKI Toolkits/VI Tester/_support/Support.llb/19C482F3AC6AD49AB10306015D89FC69"/>
 				<Item Name="25A48D093BDE11C84132276935C21464" Type="VI" URL="/&lt;vilib&gt;/addons/_JKI Toolkits/VI Tester/_support/Support.llb/25A48D093BDE11C84132276935C21464"/>
@@ -140,7 +139,6 @@
 				<Item Name="0259B4985FD40BA2718CFFFFE6AD5C2A" Type="VI" URL="/&lt;vilib&gt;/addons/_JKI Toolkits/VI Tester/_support/Support.llb/0259B4985FD40BA2718CFFFFE6AD5C2A"/>
 				<Item Name="282BEB2BA3269B11EA2097C82E5B38C4" Type="VI" URL="/&lt;vilib&gt;/addons/_JKI Toolkits/VI Tester/_support/Support.llb/282BEB2BA3269B11EA2097C82E5B38C4"/>
 				<Item Name="293FF743F2B6183C4C2C721618D0281A" Type="VI" URL="/&lt;vilib&gt;/addons/_JKI Toolkits/VI Tester/_support/Support.llb/293FF743F2B6183C4C2C721618D0281A"/>
-				<Item Name="0371A8FD73CBB48E7F94AE28CE832132" Type="VI" URL="/&lt;vilib&gt;/addons/_JKI Toolkits/VI Tester/_support/Support.llb/0371A8FD73CBB48E7F94AE28CE832132"/>
 				<Item Name="382D4F5BC052547039EEB7BC19195CCE" Type="VI" URL="/&lt;vilib&gt;/addons/_JKI Toolkits/VI Tester/_support/Support.llb/382D4F5BC052547039EEB7BC19195CCE"/>
 				<Item Name="458CD9C3D85CCD50F537CF679553D846" Type="VI" URL="/&lt;vilib&gt;/addons/_JKI Toolkits/VI Tester/_support/Support.llb/458CD9C3D85CCD50F537CF679553D846"/>
 				<Item Name="520D34A681842BE0628FA9F57590F2C5" Type="VI" URL="/&lt;vilib&gt;/addons/_JKI Toolkits/VI Tester/_support/Support.llb/520D34A681842BE0628FA9F57590F2C5"/>
@@ -179,7 +177,6 @@
 				<Item Name="347691F2CFB78A78909CA32487C6052A" Type="VI" URL="/&lt;vilib&gt;/addons/_JKI Toolkits/VI Tester/_support/Support.llb/347691F2CFB78A78909CA32487C6052A"/>
 				<Item Name="955098B7D4DC722887190FC71EC6808E" Type="VI" URL="/&lt;vilib&gt;/addons/_JKI Toolkits/VI Tester/_support/Support.llb/955098B7D4DC722887190FC71EC6808E"/>
 				<Item Name="1663198BFE5D89B04D57DB8CA6D26330" Type="VI" URL="/&lt;vilib&gt;/addons/_JKI Toolkits/VI Tester/_support/Support.llb/1663198BFE5D89B04D57DB8CA6D26330"/>
-				<Item Name="5519033A629CA06AD2075EEB2C68E18A" Type="VI" URL="/&lt;vilib&gt;/addons/_JKI Toolkits/VI Tester/_support/Support.llb/5519033A629CA06AD2075EEB2C68E18A"/>
 				<Item Name="6442643FE9037A0DC40D10F55095BAB2" Type="VI" URL="/&lt;vilib&gt;/addons/_JKI Toolkits/VI Tester/_support/Support.llb/6442643FE9037A0DC40D10F55095BAB2"/>
 				<Item Name="63340023AA150CF51157DC0C910D4B54" Type="VI" URL="/&lt;vilib&gt;/addons/_JKI Toolkits/VI Tester/_support/Support.llb/63340023AA150CF51157DC0C910D4B54"/>
 				<Item Name="97889101C13970F1C6F2FB9B02077862" Type="VI" URL="/&lt;vilib&gt;/addons/_JKI Toolkits/VI Tester/_support/Support.llb/97889101C13970F1C6F2FB9B02077862"/>
@@ -188,7 +185,6 @@
 				<Item Name="464898933AD155C89FEE6CE559F51B58" Type="VI" URL="/&lt;vilib&gt;/addons/_JKI Toolkits/VI Tester/_support/Support.llb/464898933AD155C89FEE6CE559F51B58"/>
 				<Item Name="666506047909A7A1BCDF14C562D8F748" Type="VI" URL="/&lt;vilib&gt;/addons/_JKI Toolkits/VI Tester/_support/Support.llb/666506047909A7A1BCDF14C562D8F748"/>
 				<Item Name="902176381897D7FCA07DD4917F7CC754" Type="VI" URL="/&lt;vilib&gt;/addons/_JKI Toolkits/VI Tester/_support/Support.llb/902176381897D7FCA07DD4917F7CC754"/>
-				<Item Name="_TextTestResult.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/addons/_JKI Toolkits/VI Tester/_TextTestResult.llb/_TextTestResult.lvclass"/>
 				<Item Name="A0A1945E8EAFD2051203720B7AB34974" Type="VI" URL="/&lt;vilib&gt;/addons/_JKI Toolkits/VI Tester/_support/Support.llb/A0A1945E8EAFD2051203720B7AB34974"/>
 				<Item Name="A0B040723B923BC56DA4D5845DDF832E" Type="VI" URL="/&lt;vilib&gt;/addons/_JKI Toolkits/VI Tester/_support/Support.llb/A0B040723B923BC56DA4D5845DDF832E"/>
 				<Item Name="A0CC7A6A98F24538263A6E2182CFE589" Type="VI" URL="/&lt;vilib&gt;/addons/_JKI Toolkits/VI Tester/_support/Support.llb/A0CC7A6A98F24538263A6E2182CFE589"/>
@@ -229,14 +225,12 @@
 				<Item Name="CB5CD9E3CFB04577D0438F5D5DD43051" Type="VI" URL="/&lt;vilib&gt;/addons/_JKI Toolkits/VI Tester/_support/Support.llb/CB5CD9E3CFB04577D0438F5D5DD43051"/>
 				<Item Name="CD7B20D5373253B1B2864D3AFEBBF956" Type="VI" URL="/&lt;vilib&gt;/addons/_JKI Toolkits/VI Tester/_support/Support.llb/CD7B20D5373253B1B2864D3AFEBBF956"/>
 				<Item Name="CDEE6564451F25AE85B9E92656B77E82" Type="VI" URL="/&lt;vilib&gt;/addons/_JKI Toolkits/VI Tester/_support/Support.llb/CDEE6564451F25AE85B9E92656B77E82"/>
-				<Item Name="Check if File or Folder Exists.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/libraryn.llb/Check if File or Folder Exists.vi"/>
 				<Item Name="Check Special Tags.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Check Special Tags.vi"/>
 				<Item Name="Clear Errors.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Clear Errors.vi"/>
 				<Item Name="Convert property node font to graphics font.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Convert property node font to graphics font.vi"/>
 				<Item Name="D2B8FB3AF2710715552E5C4588648488" Type="VI" URL="/&lt;vilib&gt;/addons/_JKI Toolkits/VI Tester/_support/Support.llb/D2B8FB3AF2710715552E5C4588648488"/>
 				<Item Name="D9D25D0DA19F59522C3655290418AA0F" Type="VI" URL="/&lt;vilib&gt;/addons/_JKI Toolkits/VI Tester/_support/Support.llb/D9D25D0DA19F59522C3655290418AA0F"/>
 				<Item Name="D9EE8AE3E242527C620EB9F46A4A0186" Type="VI" URL="/&lt;vilib&gt;/addons/_JKI Toolkits/VI Tester/_support/Support.llb/D9EE8AE3E242527C620EB9F46A4A0186"/>
-				<Item Name="D42F16446341C8E5769BBB7C5BEFAC12" Type="VI" URL="/&lt;vilib&gt;/addons/_JKI Toolkits/VI Tester/_support/Support.llb/D42F16446341C8E5769BBB7C5BEFAC12"/>
 				<Item Name="D71B2CCD1B14C9307DCD51670CCF32BE" Type="VI" URL="/&lt;vilib&gt;/addons/_JKI Toolkits/VI Tester/_support/Support.llb/D71B2CCD1B14C9307DCD51670CCF32BE"/>
 				<Item Name="D5328765B4C306ADE3426446F2EB815A" Type="VI" URL="/&lt;vilib&gt;/addons/_JKI Toolkits/VI Tester/_support/Support.llb/D5328765B4C306ADE3426446F2EB815A"/>
 				<Item Name="D857329033C1ADE40455504F7DB6812B" Type="VI" URL="/&lt;vilib&gt;/addons/_JKI Toolkits/VI Tester/_support/Support.llb/D857329033C1ADE40455504F7DB6812B"/>
@@ -278,9 +272,7 @@
 				<Item Name="Format Message String.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Format Message String.vi"/>
 				<Item Name="General Error Handler CORE.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/General Error Handler CORE.vi"/>
 				<Item Name="General Error Handler.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/General Error Handler.vi"/>
-				<Item Name="Get File Extension.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/libraryn.llb/Get File Extension.vi"/>
 				<Item Name="Get File System Separator.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/sysinfo.llb/Get File System Separator.vi"/>
-				<Item Name="Get LV Class Default Value.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/LVClass/Get LV Class Default Value.vi"/>
 				<Item Name="Get LV Class Path.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/LVClass/Get LV Class Path.vi"/>
 				<Item Name="Get String Text Bounds.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Get String Text Bounds.vi"/>
 				<Item Name="Get Text Rect.vi" Type="VI" URL="/&lt;vilib&gt;/picture/picture.llb/Get Text Rect.vi"/>
@@ -289,8 +281,6 @@
 				<Item Name="Internecine Avoider.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/tcp.llb/Internecine Avoider.vi"/>
 				<Item Name="Longest Line Length in Pixels.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Longest Line Length in Pixels.vi"/>
 				<Item Name="LVBoundsTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVBoundsTypeDef.ctl"/>
-				<Item Name="NI_FileType.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/lvfile.llb/NI_FileType.lvlib"/>
-				<Item Name="NI_PackedLibraryUtility.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/LVLibp/NI_PackedLibraryUtility.lvlib"/>
 				<Item Name="Not Found Dialog.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Not Found Dialog.vi"/>
 				<Item Name="Search and Replace Pattern.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Search and Replace Pattern.vi"/>
 				<Item Name="Set Bold Text.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Set Bold Text.vi"/>
@@ -303,13 +293,10 @@
 				<Item Name="TestCase.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/addons/_JKI Toolkits/VI Tester/TestCase.llb/TestCase.lvclass"/>
 				<Item Name="TestLoader.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/addons/_JKI Toolkits/VI Tester/TestLoader.llb/TestLoader.lvclass"/>
 				<Item Name="TestResult.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/addons/_JKI Toolkits/VI Tester/TestResult.llb/TestResult.lvclass"/>
-				<Item Name="TestRunner.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/addons/_JKI Toolkits/VI Tester/TestRunner.llb/TestRunner.lvclass"/>
 				<Item Name="TestSuite.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/addons/_JKI Toolkits/VI Tester/TestSuite.llb/TestSuite.lvclass"/>
-				<Item Name="TextTestRunner.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/addons/_JKI Toolkits/VI Tester/TextTestRunner.llb/TextTestRunner.lvclass"/>
 				<Item Name="Three Button Dialog CORE.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Three Button Dialog CORE.vi"/>
 				<Item Name="Three Button Dialog.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Three Button Dialog.vi"/>
 				<Item Name="Trim Whitespace.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Trim Whitespace.vi"/>
-				<Item Name="VI Tester API.lvlib" Type="Library" URL="/&lt;vilib&gt;/addons/_JKI Toolkits/VI Tester/VI Tester API.llb/VI Tester API.lvlib"/>
 				<Item Name="VITesterUtilities.lvlib" Type="Library" URL="/&lt;vilib&gt;/addons/_JKI Toolkits/VI Tester/_support/VITesterUtilities.lvlib"/>
 				<Item Name="whitespace.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/whitespace.ctl"/>
 			</Item>
