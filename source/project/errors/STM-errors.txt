@@ -5,9 +5,6 @@
 <nifamily familyname="STM" displayname="STM">
 </nifamily>
 </nicomment>
-<nierror code="537650">
-Header information was received but the complete message was not received before the specified timeout period.  This generally indicates a poor or broken connection.
-</nierror>
 <nierror code="537651">
 Variable name not defined in Meta data.
 </nierror>

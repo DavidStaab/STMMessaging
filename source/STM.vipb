@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2015-03-26 16:08:31" Modified_Date="2015-04-08 15:25:15" Creator="David Staab" Comments="" ID="76a418d78ea248687d53567f7e50add8">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2015-03-26 16:08:31" Modified_Date="2015-04-15 14:54:08" Creator="David Staab" Comments="" ID="31f8f6a4e4e9fd5cab9860b7c3b7cae4">
   <Library_General_Settings>
     <Package_File_Name>selib_stm</Package_File_Name>
-    <Library_Version>3.0.1.11</Library_Version>
+    <Library_Version>4.0.0.12</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..\export\package</Library_Output_Folder>
@@ -34,7 +34,7 @@
       <Copyright>Multiple copyright holders</Copyright>
       <Packager>Staab Engineering and NI Systems Engineering</Packager>
       <URL/>
-      <Release_Notes>Fixed a couple more TCP Read calls set to STANDARD mode instead of BUFFERED.</Release_Notes>
+      <Release_Notes>Refactored STM Read (TCP) to retry in a loop until it succeeds or times out looking for a header. This eliminates a design flaw that could lead to a corrupted byte stream (critical bug requiring disconnect/reconnect) if the header is read but the data is not. This change necessitated a change to the VI's connection pane, breaking backward-compatibility.</Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>
